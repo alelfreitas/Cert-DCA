@@ -14,4 +14,4 @@ Este guia foi baseado [nesse repositório](https://github.com/Evalle/DCA) e a in
 ## Resumos
 
 ### Orchestration (25% of exam)
-- [Complete o setup do cluster swarm subindo o manager e os workers](https://https://github.com/alelfreitas/Cert-DCA/orchestration/readme.md)
+- [Complete o setup do cluster swarm subindo o manager e os workers](https://github.com/alelfreitas/Cert-DCA/blob/master/orchestration/readme.md)
