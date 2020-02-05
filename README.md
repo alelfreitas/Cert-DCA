@@ -1,6 +1,6 @@
 # Preparação para o exame DCA (v0.0.1)
 
-Este guia foi baseado [nesse repositório](https://github.com/Evalle/DCA) e a intenção é colocar tudo o que for estudado para facilitar o entendimento
+Este guia foi baseado [nesse repositório](https://github.com/Evalle/DCA) e a intenção é colocar tudo o que for estudado para facilitar o entendimento. Todos os estudos foram feitos com base do repositório incluíndo os links são os mesmos que estão lá.
 
 ## Conteúdos da certificação
 1. [Orchestration](https://github.com/Evalle/DCA/blob/master/README.md#domain-1-orchestration-25-of-exam)
@@ -14,4 +14,6 @@ Este guia foi baseado [nesse repositório](https://github.com/Evalle/DCA) e a in
 ## Resumos
 
 ### Orchestration (25% of exam)
-- [Complete o setup do cluster swarm subindo o manager e os workers](https://github.com/alelfreitas/Cert-DCA/blob/master/orchestration/readme.md)
+- [Complete o setup do cluster swarm subindo o manager e os workers](https://github.com/alelfreitas/Cert-DCA/blob/master/orchestration/criar-swarm.md)
+- [Diferença entre Docker container e Docker service](https://github.com/alelfreitas/Cert-DCA/blob/master/orchestration/docker-service-container.md)
+- [Proteja o seu swarm](https://github.com/alelfreitas/Cert-DCA/blob/master/orchestration/proteger-swarm.md)
